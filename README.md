@@ -4,3 +4,4 @@ I'm a 2nd year PhD student in linguistics at UCLA. My primary research interest 
 ## CV
 [CV](https://joeclass22.github.io/joeclasscv.pdf)
 ## Upcoming Presentations
+<Reanalyzing Agreement and Incorporation Restrictions in Southern Tiwa: Interaction/Satisfaction meets Gluttony>
